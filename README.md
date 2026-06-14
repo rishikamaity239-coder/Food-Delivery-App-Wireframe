@@ -31,4 +31,5 @@ This project contains low-fidelity wireframes for a Food Delivery Mobile Applica
 
 ## Figma Prototype
 
-https://www.figma.com/proto/XuSpbWLJjI5L265iBsjuD7/Untitled?node-id=42-247&t=1XhCZqIUwMUCWR7j-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+<img width="1890" height="911" alt="image" src="https://github.com/user-attachments/assets/426b858a-d30f-4851-8731-d1ba2236062e" />
+
